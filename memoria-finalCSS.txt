@@ -1,0 +1,14 @@
+"Cada post deberá incluir lo expuesto en el prototipo mostrado", ¿a que prototipo os referis?.
+
+Como no he visto ningun prototipo, lo que yo he hecho es:
+
+Un header fijado, con logo y con menu y un footer con un elemnto de copyrigth.
+El cuerpo de la pagina se compone de tres divs colocados horizontalmente mediante los nombres de clase asignados, "row"
+y "column", los cuales se utilizan en el CSS.
+La primera columna se compone de tres sections y no de tres articles, esto lo he puesto asi porque en cuanto a diseño
+me gustaba mas como quedaba. Cada section es un ancla a los articulos de la columna del medio.
+La columna central se compone de un section con tres articles (como un periodico), cada articulo esta separado por
+hr para que se sepa cuando acaba uno y empieza el siguiente.
+La columna de la derecha, al igual que la central, se compone de un section con tres articulos. Estos, son enlaces externos
+a otros posts destacados.
+Para dar el efecto de posit o relieve, de forma global he puesto un box-shadow a las secciones contenedoras.
